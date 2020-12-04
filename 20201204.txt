@@ -1,3 +1,4 @@
+总共有63张表
 adh_rule=======0=====utf8_general_ci=======
 adh_templates=======0=====utf8_general_ci=======
 adhibition=======0=====utf8_general_ci=======
